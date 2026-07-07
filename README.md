@@ -1,4 +1,6 @@
-![Theo Mothuti Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:2563EB&height=230&section=header&text=Theo%20Mothuti&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20%26%20Software%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20ML%20Learner&descAlignY=58&descSize=17)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Theo%20Mothuti&fontSize=55&fontColor=ffffff&animation=fadeIn&section=header" width="100%" alt="Theo Mothuti Header" />
+</p>
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=4th-Year+Computer+Science+%26+Software+Engineering+Student;Building+Full-Stack+Web+Applications;C%2B%2B+%7C+MERN+Stack+%7C+SQL+%7C+MongoDB;Currently+Learning+Python+for+Machine+Learning)
 
