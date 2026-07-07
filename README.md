@@ -34,7 +34,11 @@ I am especially interested in:
 
 ### 📊 Progress Tracker — Project Monitoring and Evaluation Platform
 
-[![Progress Tracker Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=th3o-m&repo=Progress_Tracker&theme=tokyonight&hide_border=true)](https://github.com/th3o-m/Progress_Tracker)
+<p align="center">
+  <a href="https://github.com/th3o-m/Progress_Tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3o-m&repo=Progress_Tracker&theme=tokyonight&hide_border=true" alt="Progress Tracker Repo Card" />
+  </a>
+</p>
 
 **Progress Tracker** is a full-stack project management and monitoring application designed for project managers and teams who need to track project activities, milestones, progress, finances, beneficiaries, challenges, reports, and presentations from one system.
 
