@@ -18,52 +18,17 @@
 
 Hi, I’m **Theo Mothuti**, a **4th-year Computer Science and Software Engineering student at Botswana International University of Science and Technology (BIUST)**.
 
-I enjoy building practical software systems that solve real problems. My current focus is on **full-stack web development**, **database-driven applications**, and gradually moving into **Python and Machine Learning** so I can build smarter, more automated systems.
+ My current focus is on **full-stack web development**, **database-driven applications**, and gradually moving into **Python and Machine Learning** so I can build smarter, more automated systems.
 
 I am especially interested in:
 
-- Project management and digital reporting
+
 - Data organization and dashboards
 - Workflow automation
 - Database-backed business systems
 - Intelligent tools powered by machine learning
 
 ---
-
-## 🚀 Featured Portfolio Project
-
-### 📊 Progress Tracker — Project Monitoring and Evaluation Platform
-
-
-**Progress Tracker** is a full-stack project management and monitoring application designed for project managers and teams who need to track project activities, milestones, progress, finances, beneficiaries, challenges, reports, and presentations from one system.
-
-The goal of this project is to help project managers move away from scattered spreadsheets and manual reporting by providing a cleaner digital platform for monitoring project implementation.
-
-### Key Features
-
-- Multi-project management
-- Project dashboard overview
-- Milestone and activity tracking
-- Progress update recording
-- Financial tracking
-- Beneficiary tracking
-- Challenge and mitigation tracking
-- Spreadsheet import workflow
-- Editable imported data review
-- Reports and exports
-- Email notification support for overdue tasks
-- Full-screen **Presentation Mode** for project reporting
-
-### Tech Used
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
@@ -84,7 +49,7 @@ The goal of this project is to help project managers move away from scattered sp
 
 | Area | Technologies |
 |---|---|
-| **Programming** | C++, JavaScript, TypeScript, Python |
+| **Programming** | C/C++, JavaScript, TypeScript, Python, Java |
 | **Frontend** | React, Vite, HTML, CSS, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
 | **Databases** | SQL, PostgreSQL, MongoDB |
@@ -142,18 +107,6 @@ I am building my portfolio around projects that show both technical skill and re
 ---
 
 
-## 💡 What I’m Working Toward
-
-I am working toward becoming a developer who can build complete systems that are:
-
-- Reliable
-- User-friendly
-- Data-driven
-- Scalable
-- Useful in real-world environments
-- Intelligent through automation and machine learning
-
-My long-term goal is to combine **software engineering** and **machine learning** to build systems that help people work faster, make better decisions, and manage information more effectively.
 
 ---
 
