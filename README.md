@@ -34,11 +34,6 @@ I am especially interested in:
 
 ### 📊 Progress Tracker — Project Monitoring and Evaluation Platform
 
-<p align="center">
-  <a href="https://github.com/th3o-m/Progress_Tracker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=th3o-m&repo=Progress_Tracker&theme=tokyonight&hide_border=true" alt="Progress Tracker Repo Card" />
-  </a>
-</p>
 
 **Progress Tracker** is a full-stack project management and monitoring application designed for project managers and teams who need to track project activities, milestones, progress, finances, beneficiaries, challenges, reports, and presentations from one system.
 
@@ -146,23 +141,6 @@ I am building my portfolio around projects that show both technical skill and re
 
 ---
 
-## 📈 GitHub Stats
-
-![Theo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=th3o-m&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=th3o-m&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=th3o-m&theme=tokyonight&hide_border=true)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=th3o-m&theme=tokyo-night&hide_border=true&area=true)
-
----
-
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=th3o-m&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
----
 
 ## 💡 What I’m Working Toward
 
