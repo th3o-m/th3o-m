@@ -25,7 +25,7 @@ I am especially interested in:
 
 - Data organization and dashboards
 - Workflow automation
-- Database-backed business systems
+- Database-backed business systems for data analytics
 - Intelligent tools powered by machine learning
 
 ---
