@@ -53,7 +53,7 @@ I am especially interested in:
 | **Frontend** | React, Vite, HTML, CSS, Tailwind CSS |
 | **Backend** | Node.js, Express.js |
 | **Databases** | SQL, PostgreSQL, MongoDB |
-| **Cloud / Backend Services** | Supabase, Vercel |
+
 | **Tools** | Git, GitHub, VS Code |
 | **Currently Learning** | Python, Machine Learning, Data Science foundations |
 
